@@ -11,7 +11,7 @@ class Solution {
                 ct++;
             }
             else if(c>=48 && c<=57){
-                d++;}
+                continue;}
                 else {
                 return false;
             }
