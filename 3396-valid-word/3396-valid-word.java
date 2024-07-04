@@ -1,7 +1,7 @@
 class Solution {
     public boolean isValid(String word) {
         if(word.length()<3)return false;
-        int v=0,ct=0,d=0;
+        int v=0,ct=0;
         for(int i=0;i<word.length();i++){
             char c=word.charAt(i);
             if(c=='a' || c=='A' || c=='e' || c=='E' || c=='i' || c=='I' || c=='o' || c=='O' ||c=='u' || c=='U' ){
