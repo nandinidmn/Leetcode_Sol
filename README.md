@@ -4,11 +4,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nandinidmn/Leetcode_Sol/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [2128-reverse-prefix-of-word](https://github.com/nandinidmn/Leetcode_Sol/tree/master/2128-reverse-prefix-of-word) |
 | [3396-valid-word](https://github.com/nandinidmn/Leetcode_Sol/tree/master/3396-valid-word) |
 ## Two Pointers
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nandinidmn/Leetcode_Sol/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [2128-reverse-prefix-of-word](https://github.com/nandinidmn/Leetcode_Sol/tree/master/2128-reverse-prefix-of-word) |
 ## Linked List
 |  |
@@ -22,4 +24,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/nandinidmn/Leetcode_Sol/tree/master/0002-add-two-numbers) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nandinidmn/Leetcode_Sol/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
