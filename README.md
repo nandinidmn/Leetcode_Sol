@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/nandinidmn/Leetcode_Sol/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/nandinidmn/Leetcode_Sol/tree/master/0459-repeated-substring-pattern) |
 | [0686-repeated-string-match](https://github.com/nandinidmn/Leetcode_Sol/tree/master/0686-repeated-string-match) |
+| [1524-string-matching-in-an-array](https://github.com/nandinidmn/Leetcode_Sol/tree/master/1524-string-matching-in-an-array) |
 | [2128-reverse-prefix-of-word](https://github.com/nandinidmn/Leetcode_Sol/tree/master/2128-reverse-prefix-of-word) |
 | [3396-valid-word](https://github.com/nandinidmn/Leetcode_Sol/tree/master/3396-valid-word) |
 ## Two Pointers
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nandinidmn/Leetcode_Sol/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/nandinidmn/Leetcode_Sol/tree/master/0459-repeated-substring-pattern) |
 | [0686-repeated-string-match](https://github.com/nandinidmn/Leetcode_Sol/tree/master/0686-repeated-string-match) |
+| [1524-string-matching-in-an-array](https://github.com/nandinidmn/Leetcode_Sol/tree/master/1524-string-matching-in-an-array) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -63,4 +65,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0438-find-all-anagrams-in-a-string](https://github.com/nandinidmn/Leetcode_Sol/tree/master/0438-find-all-anagrams-in-a-string) |
+## Array
+|  |
+| ------- |
+| [1524-string-matching-in-an-array](https://github.com/nandinidmn/Leetcode_Sol/tree/master/1524-string-matching-in-an-array) |
 <!---LeetCode Topics End-->
