@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0386-lexicographical-numbers](https://github.com/nandinidmn/Leetcode_Sol/tree/master/0386-lexicographical-numbers) |
 | [0547-number-of-provinces](https://github.com/nandinidmn/Leetcode_Sol/tree/master/0547-number-of-provinces) |
 ## Breadth-First Search
 |  |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0386-lexicographical-numbers](https://github.com/nandinidmn/Leetcode_Sol/tree/master/0386-lexicographical-numbers) |
 | [1080-camelcase-matching](https://github.com/nandinidmn/Leetcode_Sol/tree/master/1080-camelcase-matching) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/nandinidmn/Leetcode_Sol/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Rolling Hash
