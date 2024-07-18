@@ -5,7 +5,7 @@ class Solution {
             a[i-1]=String.valueOf(i);
         }
         Arrays.sort(a);
-        List<Integer> l=new LinkedList<>();
+        List<Integer> l=new ArrayList<>();
         for(String i:a){
             l.add(Integer.parseInt(i));
         }
