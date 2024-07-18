@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/nandinidmn/Leetcode_Sol/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1764-maximum-repeating-substring](https://github.com/nandinidmn/Leetcode_Sol/tree/master/1764-maximum-repeating-substring) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/nandinidmn/Leetcode_Sol/tree/master/2292-counting-words-with-a-given-prefix) |
+| [3269-number-of-subarrays-that-match-a-pattern-i](https://github.com/nandinidmn/Leetcode_Sol/tree/master/3269-number-of-subarrays-that-match-a-pattern-i) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/nandinidmn/Leetcode_Sol/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Depth-First Search
 |  |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1080-camelcase-matching](https://github.com/nandinidmn/Leetcode_Sol/tree/master/1080-camelcase-matching) |
 | [1524-string-matching-in-an-array](https://github.com/nandinidmn/Leetcode_Sol/tree/master/1524-string-matching-in-an-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/nandinidmn/Leetcode_Sol/tree/master/2292-counting-words-with-a-given-prefix) |
+| [3269-number-of-subarrays-that-match-a-pattern-i](https://github.com/nandinidmn/Leetcode_Sol/tree/master/3269-number-of-subarrays-that-match-a-pattern-i) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/nandinidmn/Leetcode_Sol/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Trie
 |  |
@@ -92,10 +94,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Rolling Hash
 |  |
 | ------- |
+| [3269-number-of-subarrays-that-match-a-pattern-i](https://github.com/nandinidmn/Leetcode_Sol/tree/master/3269-number-of-subarrays-that-match-a-pattern-i) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/nandinidmn/Leetcode_Sol/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Hash Function
 |  |
 | ------- |
+| [3269-number-of-subarrays-that-match-a-pattern-i](https://github.com/nandinidmn/Leetcode_Sol/tree/master/3269-number-of-subarrays-that-match-a-pattern-i) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/nandinidmn/Leetcode_Sol/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Dynamic Programming
 |  |
