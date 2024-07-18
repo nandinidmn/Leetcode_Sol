@@ -1,14 +1,16 @@
 class Solution {
     public List<Integer> lexicalOrder(int n) {
-        String a[]=new String[n];
-        for(int i=1;i<=n;i++){
-            a[i-1]=String.valueOf(i);
+        return find(n,new ArrayList<Integer>(),1);
+    }
+    public List<Integer> find(int n, ArrayList<Integer> a,int s){
+        if(s>n)return a;
+        for(int i=s;i<=s+9;i++){
+            if(s==1 && i==10)continue;
+            if(i<=n){
+                a.add(i);
+                find(n,a,i*10);
+            }else return a;
         }
-        Arrays.sort(a);
-        List<Integer> l=new ArrayList<>();
-        for(String i:a){
-            l.add(Integer.parseInt(i));
-        }
-        return l;
+        return a;
     }
 }
