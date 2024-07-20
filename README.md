@@ -35,10 +35,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/nandinidmn/Leetcode_Sol/tree/master/0002-add-two-numbers) |
+| [0326-power-of-three](https://github.com/nandinidmn/Leetcode_Sol/tree/master/0326-power-of-three) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/nandinidmn/Leetcode_Sol/tree/master/0002-add-two-numbers) |
+| [0326-power-of-three](https://github.com/nandinidmn/Leetcode_Sol/tree/master/0326-power-of-three) |
 ## String Matching
 |  |
 | ------- |
