@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nandinidmn/Leetcode_Sol/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0242-valid-anagram](https://github.com/nandinidmn/Leetcode_Sol/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/nandinidmn/Leetcode_Sol/tree/master/0345-reverse-vowels-of-a-string) |
+| [0415-add-strings](https://github.com/nandinidmn/Leetcode_Sol/tree/master/0415-add-strings) |
 | [0434-number-of-segments-in-a-string](https://github.com/nandinidmn/Leetcode_Sol/tree/master/0434-number-of-segments-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/nandinidmn/Leetcode_Sol/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/nandinidmn/Leetcode_Sol/tree/master/0459-repeated-substring-pattern) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/nandinidmn/Leetcode_Sol/tree/master/0002-add-two-numbers) |
 | [0326-power-of-three](https://github.com/nandinidmn/Leetcode_Sol/tree/master/0326-power-of-three) |
+| [0415-add-strings](https://github.com/nandinidmn/Leetcode_Sol/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/nandinidmn/Leetcode_Sol/tree/master/0441-arranging-coins) |
 ## Recursion
 |  |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0415-add-strings](https://github.com/nandinidmn/Leetcode_Sol/tree/master/0415-add-strings) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/nandinidmn/Leetcode_Sol/tree/master/2137-final-value-of-variable-after-performing-operations) |
 ## Binary Search
 |  |
