@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nandinidmn/Leetcode_Sol/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/nandinidmn/Leetcode_Sol/tree/master/0345-reverse-vowels-of-a-string) |
+| [0455-assign-cookies](https://github.com/nandinidmn/Leetcode_Sol/tree/master/0455-assign-cookies) |
 | [1080-camelcase-matching](https://github.com/nandinidmn/Leetcode_Sol/tree/master/1080-camelcase-matching) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/nandinidmn/Leetcode_Sol/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2128-reverse-prefix-of-word](https://github.com/nandinidmn/Leetcode_Sol/tree/master/2128-reverse-prefix-of-word) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/nandinidmn/Leetcode_Sol/tree/master/0242-valid-anagram) |
+| [0455-assign-cookies](https://github.com/nandinidmn/Leetcode_Sol/tree/master/0455-assign-cookies) |
 ## Sliding Window
 |  |
 | ------- |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/nandinidmn/Leetcode_Sol/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0455-assign-cookies](https://github.com/nandinidmn/Leetcode_Sol/tree/master/0455-assign-cookies) |
 | [1080-camelcase-matching](https://github.com/nandinidmn/Leetcode_Sol/tree/master/1080-camelcase-matching) |
 | [1524-string-matching-in-an-array](https://github.com/nandinidmn/Leetcode_Sol/tree/master/1524-string-matching-in-an-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/nandinidmn/Leetcode_Sol/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -129,4 +132,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0441-arranging-coins](https://github.com/nandinidmn/Leetcode_Sol/tree/master/0441-arranging-coins) |
+## Greedy
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/nandinidmn/Leetcode_Sol/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
