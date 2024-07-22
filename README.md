@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nandinidmn/Leetcode_Sol/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0067-add-binary](https://github.com/nandinidmn/Leetcode_Sol/tree/master/0067-add-binary) |
 | [0242-valid-anagram](https://github.com/nandinidmn/Leetcode_Sol/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/nandinidmn/Leetcode_Sol/tree/master/0345-reverse-vowels-of-a-string) |
 | [0415-add-strings](https://github.com/nandinidmn/Leetcode_Sol/tree/master/0415-add-strings) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/nandinidmn/Leetcode_Sol/tree/master/0002-add-two-numbers) |
+| [0067-add-binary](https://github.com/nandinidmn/Leetcode_Sol/tree/master/0067-add-binary) |
 | [0326-power-of-three](https://github.com/nandinidmn/Leetcode_Sol/tree/master/0326-power-of-three) |
 | [0415-add-strings](https://github.com/nandinidmn/Leetcode_Sol/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/nandinidmn/Leetcode_Sol/tree/master/0441-arranging-coins) |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/nandinidmn/Leetcode_Sol/tree/master/0067-add-binary) |
 | [0415-add-strings](https://github.com/nandinidmn/Leetcode_Sol/tree/master/0415-add-strings) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/nandinidmn/Leetcode_Sol/tree/master/2137-final-value-of-variable-after-performing-operations) |
 ## Binary Search
@@ -145,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/nandinidmn/Leetcode_Sol/tree/master/0067-add-binary) |
 | [0222-count-complete-tree-nodes](https://github.com/nandinidmn/Leetcode_Sol/tree/master/0222-count-complete-tree-nodes) |
 ## Tree
 |  |
