@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/nandinidmn/Leetcode_Sol/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/nandinidmn/Leetcode_Sol/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/nandinidmn/Leetcode_Sol/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2502-sort-the-people](https://github.com/nandinidmn/Leetcode_Sol/tree/master/2502-sort-the-people) |
 | [3194-find-words-containing-character](https://github.com/nandinidmn/Leetcode_Sol/tree/master/3194-find-words-containing-character) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/nandinidmn/Leetcode_Sol/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3396-valid-word](https://github.com/nandinidmn/Leetcode_Sol/tree/master/3396-valid-word) |
@@ -90,12 +91,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/nandinidmn/Leetcode_Sol/tree/master/0349-intersection-of-two-arrays) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/nandinidmn/Leetcode_Sol/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/nandinidmn/Leetcode_Sol/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [2502-sort-the-people](https://github.com/nandinidmn/Leetcode_Sol/tree/master/2502-sort-the-people) |
 ## Sorting
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/nandinidmn/Leetcode_Sol/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/nandinidmn/Leetcode_Sol/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/nandinidmn/Leetcode_Sol/tree/master/0455-assign-cookies) |
+| [2502-sort-the-people](https://github.com/nandinidmn/Leetcode_Sol/tree/master/2502-sort-the-people) |
 ## Sliding Window
 |  |
 | ------- |
@@ -111,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/nandinidmn/Leetcode_Sol/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/nandinidmn/Leetcode_Sol/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/nandinidmn/Leetcode_Sol/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2502-sort-the-people](https://github.com/nandinidmn/Leetcode_Sol/tree/master/2502-sort-the-people) |
 | [3194-find-words-containing-character](https://github.com/nandinidmn/Leetcode_Sol/tree/master/3194-find-words-containing-character) |
 | [3269-number-of-subarrays-that-match-a-pattern-i](https://github.com/nandinidmn/Leetcode_Sol/tree/master/3269-number-of-subarrays-that-match-a-pattern-i) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/nandinidmn/Leetcode_Sol/tree/master/3309-count-prefix-and-suffix-pairs-i) |
