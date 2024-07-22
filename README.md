@@ -64,11 +64,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/nandinidmn/Leetcode_Sol/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0386-lexicographical-numbers](https://github.com/nandinidmn/Leetcode_Sol/tree/master/0386-lexicographical-numbers) |
 | [0547-number-of-provinces](https://github.com/nandinidmn/Leetcode_Sol/tree/master/0547-number-of-provinces) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/nandinidmn/Leetcode_Sol/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/nandinidmn/Leetcode_Sol/tree/master/0547-number-of-provinces) |
 ## Union Find
 |  |
@@ -147,9 +149,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/nandinidmn/Leetcode_Sol/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/nandinidmn/Leetcode_Sol/tree/master/0222-count-complete-tree-nodes) |
 ## Binary Tree
 |  |
 | ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/nandinidmn/Leetcode_Sol/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/nandinidmn/Leetcode_Sol/tree/master/0222-count-complete-tree-nodes) |
 <!---LeetCode Topics End-->
