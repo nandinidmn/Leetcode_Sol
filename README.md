@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/nandinidmn/Leetcode_Sol/tree/master/0067-add-binary) |
 | [0242-valid-anagram](https://github.com/nandinidmn/Leetcode_Sol/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/nandinidmn/Leetcode_Sol/tree/master/0345-reverse-vowels-of-a-string) |
+| [0383-ransom-note](https://github.com/nandinidmn/Leetcode_Sol/tree/master/0383-ransom-note) |
 | [0415-add-strings](https://github.com/nandinidmn/Leetcode_Sol/tree/master/0415-add-strings) |
 | [0434-number-of-segments-in-a-string](https://github.com/nandinidmn/Leetcode_Sol/tree/master/0434-number-of-segments-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/nandinidmn/Leetcode_Sol/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/nandinidmn/Leetcode_Sol/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/nandinidmn/Leetcode_Sol/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/nandinidmn/Leetcode_Sol/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0383-ransom-note](https://github.com/nandinidmn/Leetcode_Sol/tree/master/0383-ransom-note) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/nandinidmn/Leetcode_Sol/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/nandinidmn/Leetcode_Sol/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [2502-sort-the-people](https://github.com/nandinidmn/Leetcode_Sol/tree/master/2502-sort-the-people) |
@@ -176,4 +178,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/nandinidmn/Leetcode_Sol/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/nandinidmn/Leetcode_Sol/tree/master/0222-count-complete-tree-nodes) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/nandinidmn/Leetcode_Sol/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
