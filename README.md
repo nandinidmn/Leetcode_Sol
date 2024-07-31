@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/nandinidmn/Leetcode_Sol/tree/master/0451-sort-characters-by-frequency) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/nandinidmn/Leetcode_Sol/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2406-decode-the-message](https://github.com/nandinidmn/Leetcode_Sol/tree/master/2406-decode-the-message) |
+| [2486-most-frequent-even-element](https://github.com/nandinidmn/Leetcode_Sol/tree/master/2486-most-frequent-even-element) |
 | [2502-sort-the-people](https://github.com/nandinidmn/Leetcode_Sol/tree/master/2502-sort-the-people) |
 ## Sorting
 |  |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/nandinidmn/Leetcode_Sol/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/nandinidmn/Leetcode_Sol/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/nandinidmn/Leetcode_Sol/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2486-most-frequent-even-element](https://github.com/nandinidmn/Leetcode_Sol/tree/master/2486-most-frequent-even-element) |
 | [2502-sort-the-people](https://github.com/nandinidmn/Leetcode_Sol/tree/master/2502-sort-the-people) |
 | [3194-find-words-containing-character](https://github.com/nandinidmn/Leetcode_Sol/tree/master/3194-find-words-containing-character) |
 | [3269-number-of-subarrays-that-match-a-pattern-i](https://github.com/nandinidmn/Leetcode_Sol/tree/master/3269-number-of-subarrays-that-match-a-pattern-i) |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/nandinidmn/Leetcode_Sol/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/nandinidmn/Leetcode_Sol/tree/master/0451-sort-characters-by-frequency) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/nandinidmn/Leetcode_Sol/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
+| [2486-most-frequent-even-element](https://github.com/nandinidmn/Leetcode_Sol/tree/master/2486-most-frequent-even-element) |
 ## Backtracking
 |  |
 | ------- |
