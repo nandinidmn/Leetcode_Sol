@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/nandinidmn/Leetcode_Sol/tree/master/0415-add-strings) |
 | [0434-number-of-segments-in-a-string](https://github.com/nandinidmn/Leetcode_Sol/tree/master/0434-number-of-segments-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/nandinidmn/Leetcode_Sol/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/nandinidmn/Leetcode_Sol/tree/master/0451-sort-characters-by-frequency) |
 | [0459-repeated-substring-pattern](https://github.com/nandinidmn/Leetcode_Sol/tree/master/0459-repeated-substring-pattern) |
 | [0686-repeated-string-match](https://github.com/nandinidmn/Leetcode_Sol/tree/master/0686-repeated-string-match) |
 | [1080-camelcase-matching](https://github.com/nandinidmn/Leetcode_Sol/tree/master/1080-camelcase-matching) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/nandinidmn/Leetcode_Sol/tree/master/0383-ransom-note) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/nandinidmn/Leetcode_Sol/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/nandinidmn/Leetcode_Sol/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0451-sort-characters-by-frequency](https://github.com/nandinidmn/Leetcode_Sol/tree/master/0451-sort-characters-by-frequency) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/nandinidmn/Leetcode_Sol/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2406-decode-the-message](https://github.com/nandinidmn/Leetcode_Sol/tree/master/2406-decode-the-message) |
 | [2502-sort-the-people](https://github.com/nandinidmn/Leetcode_Sol/tree/master/2502-sort-the-people) |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/nandinidmn/Leetcode_Sol/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/nandinidmn/Leetcode_Sol/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/nandinidmn/Leetcode_Sol/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0451-sort-characters-by-frequency](https://github.com/nandinidmn/Leetcode_Sol/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/nandinidmn/Leetcode_Sol/tree/master/0455-assign-cookies) |
 | [2502-sort-the-people](https://github.com/nandinidmn/Leetcode_Sol/tree/master/2502-sort-the-people) |
 ## Sliding Window
@@ -190,9 +193,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/nandinidmn/Leetcode_Sol/tree/master/0383-ransom-note) |
+| [0451-sort-characters-by-frequency](https://github.com/nandinidmn/Leetcode_Sol/tree/master/0451-sort-characters-by-frequency) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/nandinidmn/Leetcode_Sol/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 ## Backtracking
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/nandinidmn/Leetcode_Sol/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/nandinidmn/Leetcode_Sol/tree/master/0451-sort-characters-by-frequency) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/nandinidmn/Leetcode_Sol/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
