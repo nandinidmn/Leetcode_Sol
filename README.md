@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/nandinidmn/Leetcode_Sol/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/nandinidmn/Leetcode_Sol/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/nandinidmn/Leetcode_Sol/tree/master/0383-ransom-note) |
+| [0392-is-subsequence](https://github.com/nandinidmn/Leetcode_Sol/tree/master/0392-is-subsequence) |
 | [0415-add-strings](https://github.com/nandinidmn/Leetcode_Sol/tree/master/0415-add-strings) |
 | [0434-number-of-segments-in-a-string](https://github.com/nandinidmn/Leetcode_Sol/tree/master/0434-number-of-segments-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/nandinidmn/Leetcode_Sol/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/nandinidmn/Leetcode_Sol/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/nandinidmn/Leetcode_Sol/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/nandinidmn/Leetcode_Sol/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0392-is-subsequence](https://github.com/nandinidmn/Leetcode_Sol/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/nandinidmn/Leetcode_Sol/tree/master/0455-assign-cookies) |
 | [1080-camelcase-matching](https://github.com/nandinidmn/Leetcode_Sol/tree/master/1080-camelcase-matching) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/nandinidmn/Leetcode_Sol/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0338-counting-bits](https://github.com/nandinidmn/Leetcode_Sol/tree/master/0338-counting-bits) |
+| [0392-is-subsequence](https://github.com/nandinidmn/Leetcode_Sol/tree/master/0392-is-subsequence) |
 | [1764-maximum-repeating-substring](https://github.com/nandinidmn/Leetcode_Sol/tree/master/1764-maximum-repeating-substring) |
 ## Simulation
 |  |
