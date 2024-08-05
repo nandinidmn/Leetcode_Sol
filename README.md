@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1764-maximum-repeating-substring](https://github.com/nandinidmn/Leetcode_Sol/tree/master/1764-maximum-repeating-substring) |
 | [2128-reverse-prefix-of-word](https://github.com/nandinidmn/Leetcode_Sol/tree/master/2128-reverse-prefix-of-word) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/nandinidmn/Leetcode_Sol/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/nandinidmn/Leetcode_Sol/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/nandinidmn/Leetcode_Sol/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/nandinidmn/Leetcode_Sol/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2406-decode-the-message](https://github.com/nandinidmn/Leetcode_Sol/tree/master/2406-decode-the-message) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/nandinidmn/Leetcode_Sol/tree/master/0451-sort-characters-by-frequency) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/nandinidmn/Leetcode_Sol/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/nandinidmn/Leetcode_Sol/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/nandinidmn/Leetcode_Sol/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2406-decode-the-message](https://github.com/nandinidmn/Leetcode_Sol/tree/master/2406-decode-the-message) |
 | [2486-most-frequent-even-element](https://github.com/nandinidmn/Leetcode_Sol/tree/master/2486-most-frequent-even-element) |
 | [2502-sort-the-people](https://github.com/nandinidmn/Leetcode_Sol/tree/master/2502-sort-the-people) |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/nandinidmn/Leetcode_Sol/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/nandinidmn/Leetcode_Sol/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/nandinidmn/Leetcode_Sol/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/nandinidmn/Leetcode_Sol/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/nandinidmn/Leetcode_Sol/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/nandinidmn/Leetcode_Sol/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2486-most-frequent-even-element](https://github.com/nandinidmn/Leetcode_Sol/tree/master/2486-most-frequent-even-element) |
@@ -205,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/nandinidmn/Leetcode_Sol/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/nandinidmn/Leetcode_Sol/tree/master/0451-sort-characters-by-frequency) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/nandinidmn/Leetcode_Sol/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/nandinidmn/Leetcode_Sol/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2486-most-frequent-even-element](https://github.com/nandinidmn/Leetcode_Sol/tree/master/2486-most-frequent-even-element) |
 ## Backtracking
 |  |
