@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/nandinidmn/Leetcode_Sol/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/nandinidmn/Leetcode_Sol/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/nandinidmn/Leetcode_Sol/tree/master/0451-sort-characters-by-frequency) |
+| [0645-set-mismatch](https://github.com/nandinidmn/Leetcode_Sol/tree/master/0645-set-mismatch) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/nandinidmn/Leetcode_Sol/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/nandinidmn/Leetcode_Sol/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/nandinidmn/Leetcode_Sol/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/nandinidmn/Leetcode_Sol/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/nandinidmn/Leetcode_Sol/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/nandinidmn/Leetcode_Sol/tree/master/0455-assign-cookies) |
+| [0645-set-mismatch](https://github.com/nandinidmn/Leetcode_Sol/tree/master/0645-set-mismatch) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/nandinidmn/Leetcode_Sol/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/nandinidmn/Leetcode_Sol/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2502-sort-the-people](https://github.com/nandinidmn/Leetcode_Sol/tree/master/2502-sort-the-people) |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/nandinidmn/Leetcode_Sol/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/nandinidmn/Leetcode_Sol/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/nandinidmn/Leetcode_Sol/tree/master/0455-assign-cookies) |
+| [0645-set-mismatch](https://github.com/nandinidmn/Leetcode_Sol/tree/master/0645-set-mismatch) |
 | [1080-camelcase-matching](https://github.com/nandinidmn/Leetcode_Sol/tree/master/1080-camelcase-matching) |
 | [1524-string-matching-in-an-array](https://github.com/nandinidmn/Leetcode_Sol/tree/master/1524-string-matching-in-an-array) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/nandinidmn/Leetcode_Sol/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -198,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/nandinidmn/Leetcode_Sol/tree/master/0222-count-complete-tree-nodes) |
 | [0338-counting-bits](https://github.com/nandinidmn/Leetcode_Sol/tree/master/0338-counting-bits) |
 | [0461-hamming-distance](https://github.com/nandinidmn/Leetcode_Sol/tree/master/0461-hamming-distance) |
+| [0645-set-mismatch](https://github.com/nandinidmn/Leetcode_Sol/tree/master/0645-set-mismatch) |
 ## Tree
 |  |
 | ------- |
