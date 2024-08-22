@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0006-zigzag-conversion](https://github.com/nandinidmn/Leetcode_Sol/tree/master/0006-zigzag-conversion) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/nandinidmn/Leetcode_Sol/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/nandinidmn/Leetcode_Sol/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nandinidmn/Leetcode_Sol/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0067-add-binary](https://github.com/nandinidmn/Leetcode_Sol/tree/master/0067-add-binary) |
 | [0242-valid-anagram](https://github.com/nandinidmn/Leetcode_Sol/tree/master/0242-valid-anagram) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/nandinidmn/Leetcode_Sol/tree/master/0022-generate-parentheses) |
 | [0338-counting-bits](https://github.com/nandinidmn/Leetcode_Sol/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/nandinidmn/Leetcode_Sol/tree/master/0392-is-subsequence) |
 | [1764-maximum-repeating-substring](https://github.com/nandinidmn/Leetcode_Sol/tree/master/1764-maximum-repeating-substring) |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/nandinidmn/Leetcode_Sol/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/nandinidmn/Leetcode_Sol/tree/master/0022-generate-parentheses) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
