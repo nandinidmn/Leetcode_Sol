@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/nandinidmn/Leetcode_Sol/tree/master/0493-reverse-pairs) |
 | [0645-set-mismatch](https://github.com/nandinidmn/Leetcode_Sol/tree/master/0645-set-mismatch) |
 | [0735-asteroid-collision](https://github.com/nandinidmn/Leetcode_Sol/tree/master/0735-asteroid-collision) |
+| [0907-koko-eating-bananas](https://github.com/nandinidmn/Leetcode_Sol/tree/master/0907-koko-eating-bananas) |
 | [1080-camelcase-matching](https://github.com/nandinidmn/Leetcode_Sol/tree/master/1080-camelcase-matching) |
 | [1524-string-matching-in-an-array](https://github.com/nandinidmn/Leetcode_Sol/tree/master/1524-string-matching-in-an-array) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/nandinidmn/Leetcode_Sol/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/nandinidmn/Leetcode_Sol/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0441-arranging-coins](https://github.com/nandinidmn/Leetcode_Sol/tree/master/0441-arranging-coins) |
 | [0493-reverse-pairs](https://github.com/nandinidmn/Leetcode_Sol/tree/master/0493-reverse-pairs) |
+| [0907-koko-eating-bananas](https://github.com/nandinidmn/Leetcode_Sol/tree/master/0907-koko-eating-bananas) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/nandinidmn/Leetcode_Sol/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Greedy
 |  |
