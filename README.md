@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/nandinidmn/Leetcode_Sol/tree/master/0002-add-two-numbers) |
 | [0141-linked-list-cycle](https://github.com/nandinidmn/Leetcode_Sol/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/nandinidmn/Leetcode_Sol/tree/master/0148-sort-list) |
+| [0328-odd-even-linked-list](https://github.com/nandinidmn/Leetcode_Sol/tree/master/0328-odd-even-linked-list) |
 ## Math
 |  |
 | ------- |
