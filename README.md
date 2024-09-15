@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/nandinidmn/Leetcode_Sol/tree/master/0001-two-sum) |
 | [0016-3sum-closest](https://github.com/nandinidmn/Leetcode_Sol/tree/master/0016-3sum-closest) |
+| [0162-find-peak-element](https://github.com/nandinidmn/Leetcode_Sol/tree/master/0162-find-peak-element) |
 | [0349-intersection-of-two-arrays](https://github.com/nandinidmn/Leetcode_Sol/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/nandinidmn/Leetcode_Sol/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/nandinidmn/Leetcode_Sol/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0162-find-peak-element](https://github.com/nandinidmn/Leetcode_Sol/tree/master/0162-find-peak-element) |
 | [0222-count-complete-tree-nodes](https://github.com/nandinidmn/Leetcode_Sol/tree/master/0222-count-complete-tree-nodes) |
 | [0349-intersection-of-two-arrays](https://github.com/nandinidmn/Leetcode_Sol/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/nandinidmn/Leetcode_Sol/tree/master/0350-intersection-of-two-arrays-ii) |
