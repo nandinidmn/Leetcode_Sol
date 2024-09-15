@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/nandinidmn/Leetcode_Sol/tree/master/0002-add-two-numbers) |
+| [0023-merge-k-sorted-lists](https://github.com/nandinidmn/Leetcode_Sol/tree/master/0023-merge-k-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/nandinidmn/Leetcode_Sol/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/nandinidmn/Leetcode_Sol/tree/master/0148-sort-list) |
 | [0328-odd-even-linked-list](https://github.com/nandinidmn/Leetcode_Sol/tree/master/0328-odd-even-linked-list) |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/nandinidmn/Leetcode_Sol/tree/master/0023-merge-k-sorted-lists) |
 | [0451-sort-characters-by-frequency](https://github.com/nandinidmn/Leetcode_Sol/tree/master/0451-sort-characters-by-frequency) |
 ## Bucket Sort
 |  |
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/nandinidmn/Leetcode_Sol/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/nandinidmn/Leetcode_Sol/tree/master/0148-sort-list) |
 | [0493-reverse-pairs](https://github.com/nandinidmn/Leetcode_Sol/tree/master/0493-reverse-pairs) |
 ## Binary Indexed Tree
@@ -279,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Merge Sort
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/nandinidmn/Leetcode_Sol/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/nandinidmn/Leetcode_Sol/tree/master/0148-sort-list) |
 | [0493-reverse-pairs](https://github.com/nandinidmn/Leetcode_Sol/tree/master/0493-reverse-pairs) |
 ## Ordered Set
