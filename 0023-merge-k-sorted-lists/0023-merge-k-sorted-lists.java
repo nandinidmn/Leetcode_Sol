@@ -9,22 +9,33 @@
  * }
  */
 class Solution {
+    public ListNode mergek(ListNode[] l,int s,int e){
+        if(s==e){return l[s];}
+        int m=(s+e)/2;
+        ListNode le=mergek(l,s,m);
+        ListNode r=mergek(l,m+1,e);
+        return merge(le,r);
+    }
+    public ListNode merge(ListNode l1,ListNode l2){
+        ListNode a=new ListNode(0);
+        ListNode curr=a;
+        while(l1!=null && l2!=null){
+            if(l1.val<l2.val){
+                curr.next=l1;
+                l1=l1.next;
+            }else{
+                curr.next=l2;
+                l2=l2.next;
+            }
+            curr=curr.next;
+        }
+        curr.next=(l1!=null)?l1:l2;
+
+        return a.next;
+    }
     public ListNode mergeKLists(ListNode[] lists) {
-        Queue<ListNode> q=new PriorityQueue<ListNode> ((a,b)->a.val-b.val);
-        for(ListNode l:lists){
-           if(l!=null){
-            q.add(l);
-           }
-        }
-        ListNode h=new ListNode(0);
-        ListNode point=h;
-        while(!q.isEmpty()){
-          point.next=q.poll();
-          point=point.next;
-          if(point.next!=null){
-            q.add(point.next);
-          }
-        }
-        return h.next;
+        if(lists==null || lists.length==0){return null;}
+
+        return mergek(lists,0,lists.length-1);
     }
 }
