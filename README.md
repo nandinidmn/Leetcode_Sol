@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/nandinidmn/Leetcode_Sol/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/nandinidmn/Leetcode_Sol/tree/master/0007-reverse-integer) |
+| [0048-rotate-image](https://github.com/nandinidmn/Leetcode_Sol/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/nandinidmn/Leetcode_Sol/tree/master/0067-add-binary) |
 | [0326-power-of-three](https://github.com/nandinidmn/Leetcode_Sol/tree/master/0326-power-of-three) |
 | [0415-add-strings](https://github.com/nandinidmn/Leetcode_Sol/tree/master/0415-add-strings) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/nandinidmn/Leetcode_Sol/tree/master/0001-two-sum) |
 | [0016-3sum-closest](https://github.com/nandinidmn/Leetcode_Sol/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/nandinidmn/Leetcode_Sol/tree/master/0018-4sum) |
+| [0048-rotate-image](https://github.com/nandinidmn/Leetcode_Sol/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/nandinidmn/Leetcode_Sol/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/nandinidmn/Leetcode_Sol/tree/master/0073-set-matrix-zeroes) |
 | [0162-find-peak-element](https://github.com/nandinidmn/Leetcode_Sol/tree/master/0162-find-peak-element) |
@@ -297,5 +299,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/nandinidmn/Leetcode_Sol/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/nandinidmn/Leetcode_Sol/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
