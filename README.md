@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/nandinidmn/Leetcode_Sol/tree/master/0001-two-sum) |
 | [0016-3sum-closest](https://github.com/nandinidmn/Leetcode_Sol/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/nandinidmn/Leetcode_Sol/tree/master/0018-4sum) |
+| [0053-maximum-subarray](https://github.com/nandinidmn/Leetcode_Sol/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/nandinidmn/Leetcode_Sol/tree/master/0073-set-matrix-zeroes) |
 | [0162-find-peak-element](https://github.com/nandinidmn/Leetcode_Sol/tree/master/0162-find-peak-element) |
 | [0349-intersection-of-two-arrays](https://github.com/nandinidmn/Leetcode_Sol/tree/master/0349-intersection-of-two-arrays) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/nandinidmn/Leetcode_Sol/tree/master/0022-generate-parentheses) |
+| [0053-maximum-subarray](https://github.com/nandinidmn/Leetcode_Sol/tree/master/0053-maximum-subarray) |
 | [0338-counting-bits](https://github.com/nandinidmn/Leetcode_Sol/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/nandinidmn/Leetcode_Sol/tree/master/0392-is-subsequence) |
 | [1764-maximum-repeating-substring](https://github.com/nandinidmn/Leetcode_Sol/tree/master/1764-maximum-repeating-substring) |
@@ -271,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/nandinidmn/Leetcode_Sol/tree/master/0023-merge-k-sorted-lists) |
+| [0053-maximum-subarray](https://github.com/nandinidmn/Leetcode_Sol/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/nandinidmn/Leetcode_Sol/tree/master/0148-sort-list) |
 | [0493-reverse-pairs](https://github.com/nandinidmn/Leetcode_Sol/tree/master/0493-reverse-pairs) |
 ## Binary Indexed Tree
