@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/nandinidmn/Leetcode_Sol/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/nandinidmn/Leetcode_Sol/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0073-set-matrix-zeroes](https://github.com/nandinidmn/Leetcode_Sol/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/nandinidmn/Leetcode_Sol/tree/master/0141-linked-list-cycle) |
 | [0242-valid-anagram](https://github.com/nandinidmn/Leetcode_Sol/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/nandinidmn/Leetcode_Sol/tree/master/0349-intersection-of-two-arrays) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/nandinidmn/Leetcode_Sol/tree/master/0001-two-sum) |
 | [0016-3sum-closest](https://github.com/nandinidmn/Leetcode_Sol/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/nandinidmn/Leetcode_Sol/tree/master/0018-4sum) |
+| [0073-set-matrix-zeroes](https://github.com/nandinidmn/Leetcode_Sol/tree/master/0073-set-matrix-zeroes) |
 | [0162-find-peak-element](https://github.com/nandinidmn/Leetcode_Sol/tree/master/0162-find-peak-element) |
 | [0349-intersection-of-two-arrays](https://github.com/nandinidmn/Leetcode_Sol/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/nandinidmn/Leetcode_Sol/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -289,4 +291,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/nandinidmn/Leetcode_Sol/tree/master/0493-reverse-pairs) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/nandinidmn/Leetcode_Sol/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
