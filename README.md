@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/nandinidmn/Leetcode_Sol/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/nandinidmn/Leetcode_Sol/tree/master/0018-4sum) |
+| [0056-merge-intervals](https://github.com/nandinidmn/Leetcode_Sol/tree/master/0056-merge-intervals) |
 | [0148-sort-list](https://github.com/nandinidmn/Leetcode_Sol/tree/master/0148-sort-list) |
 | [0242-valid-anagram](https://github.com/nandinidmn/Leetcode_Sol/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/nandinidmn/Leetcode_Sol/tree/master/0349-intersection-of-two-arrays) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/nandinidmn/Leetcode_Sol/tree/master/0018-4sum) |
 | [0048-rotate-image](https://github.com/nandinidmn/Leetcode_Sol/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/nandinidmn/Leetcode_Sol/tree/master/0053-maximum-subarray) |
+| [0056-merge-intervals](https://github.com/nandinidmn/Leetcode_Sol/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/nandinidmn/Leetcode_Sol/tree/master/0073-set-matrix-zeroes) |
 | [0162-find-peak-element](https://github.com/nandinidmn/Leetcode_Sol/tree/master/0162-find-peak-element) |
 | [0349-intersection-of-two-arrays](https://github.com/nandinidmn/Leetcode_Sol/tree/master/0349-intersection-of-two-arrays) |
